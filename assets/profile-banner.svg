@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
   <title id="title">WinTrae developer profile banner</title>
-  <desc id="desc">A dark indigo technology banner introducing WinTrae and his focus on AI evaluation, software engineering, and useful tools.</desc>
+  <desc id="desc">A light blue and lavender technology banner introducing WinTrae and his focus on AI evaluation, software engineering, and useful tools.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#080d1d"/>
-      <stop offset="0.55" stop-color="#10172b"/>
-      <stop offset="1" stop-color="#0a1b2a"/>
+      <stop offset="0" stop-color="#fbfaff"/>
+      <stop offset="0.55" stop-color="#f3f6ff"/>
+      <stop offset="1" stop-color="#ecfbff"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#8b5cf6"/>
@@ -13,18 +13,18 @@
       <stop offset="1" stop-color="#22d3ee"/>
     </linearGradient>
     <radialGradient id="glowA" cx="50%" cy="50%" r="50%">
-      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.32"/>
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0.2"/>
       <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="glowB" cx="50%" cy="50%" r="50%">
-      <stop offset="0" stop-color="#06b6d4" stop-opacity="0.26"/>
+      <stop offset="0" stop-color="#67e8f9" stop-opacity="0.22"/>
       <stop offset="1" stop-color="#06b6d4" stop-opacity="0"/>
     </radialGradient>
     <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
-      <path d="M34 0H0V34" fill="none" stroke="#94a3b8" stroke-opacity="0.07" stroke-width="1"/>
+      <path d="M34 0H0V34" fill="none" stroke="#7d8fb1" stroke-opacity="0.1" stroke-width="1"/>
     </pattern>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#000" flood-opacity="0.34"/>
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#6b7fa3" flood-opacity="0.18"/>
     </filter>
     <clipPath id="round">
       <rect x="0" y="0" width="1200" height="340" rx="28"/>
@@ -36,43 +36,43 @@
     <rect width="1200" height="340" fill="url(#grid)"/>
     <circle cx="125" cy="65" r="270" fill="url(#glowA)"/>
     <circle cx="1110" cy="300" r="315" fill="url(#glowB)"/>
-    <path d="M0 306C220 250 326 348 520 299S850 248 1200 290V340H0Z" fill="#38bdf8" fill-opacity="0.035"/>
+    <path d="M0 306C220 250 326 348 520 299S850 248 1200 290V340H0Z" fill="#3b82f6" fill-opacity="0.055"/>
 
     <g transform="translate(70 62)">
       <rect x="0" y="0" width="54" height="7" rx="3.5" fill="url(#accent)"/>
-      <text x="0" y="77" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="64" font-weight="760" letter-spacing="-1.5">WinTrae</text>
-      <text x="2" y="115" fill="#a7b3ca" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="500" letter-spacing="1.25">BUILD WITH CARE · VERIFY WITH EVIDENCE</text>
+      <text x="0" y="77" fill="#17233d" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="64" font-weight="760" letter-spacing="-1.5">WinTrae</text>
+      <text x="2" y="115" fill="#566784" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="500" letter-spacing="1.25">BUILD WITH CARE · VERIFY WITH EVIDENCE</text>
 
       <g transform="translate(0 151)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">
         <rect width="126" height="38" rx="19" fill="#8b5cf6" fill-opacity="0.14" stroke="#a78bfa" stroke-opacity="0.46"/>
         <circle cx="19" cy="19" r="4" fill="#a78bfa"/>
-        <text x="32" y="24" fill="#ddd6fe">AI Evaluation</text>
+        <text x="32" y="24" fill="#6d28d9">AI Evaluation</text>
 
-        <rect x="140" width="168" height="38" rx="19" fill="#3b82f6" fill-opacity="0.14" stroke="#60a5fa" stroke-opacity="0.46"/>
+        <rect x="140" width="190" height="38" rx="19" fill="#3b82f6" fill-opacity="0.1" stroke="#60a5fa" stroke-opacity="0.55"/>
         <circle cx="159" cy="19" r="4" fill="#60a5fa"/>
-        <text x="172" y="24" fill="#dbeafe">Software Engineering</text>
+        <text x="172" y="24" fill="#1d4ed8">Software Engineering</text>
 
-        <rect x="322" width="143" height="38" rx="19" fill="#06b6d4" fill-opacity="0.13" stroke="#22d3ee" stroke-opacity="0.46"/>
-        <circle cx="341" cy="19" r="4" fill="#22d3ee"/>
-        <text x="354" y="24" fill="#cffafe">Useful Tools</text>
+        <rect x="344" width="143" height="38" rx="19" fill="#06b6d4" fill-opacity="0.1" stroke="#22d3ee" stroke-opacity="0.55"/>
+        <circle cx="363" cy="19" r="4" fill="#22d3ee"/>
+        <text x="376" y="24" fill="#0e7490">Useful Tools</text>
       </g>
     </g>
 
     <g transform="translate(720 54)" filter="url(#shadow)">
-      <rect width="405" height="230" rx="20" fill="#0b1222" stroke="#61718d" stroke-opacity="0.28"/>
-      <rect width="405" height="43" rx="20" fill="#131c30"/>
-      <path d="M0 25H405V43H0Z" fill="#131c30"/>
+      <rect width="405" height="230" rx="20" fill="#ffffff" stroke="#9dacc4" stroke-opacity="0.5"/>
+      <rect width="405" height="43" rx="20" fill="#eef2ff"/>
+      <path d="M0 25H405V43H0Z" fill="#eef2ff"/>
       <circle cx="24" cy="22" r="5" fill="#fb7185"/>
       <circle cx="42" cy="22" r="5" fill="#fbbf24"/>
       <circle cx="60" cy="22" r="5" fill="#34d399"/>
-      <text x="86" y="27" fill="#7f8da7" font-family="Consolas,monospace" font-size="12">profile.ts</text>
+      <text x="86" y="27" fill="#6b7c99" font-family="Consolas,monospace" font-size="12">profile.ts</text>
 
       <g font-family="Consolas,monospace" font-size="15">
-        <text x="28" y="78"><tspan fill="#c084fc">const</tspan><tspan fill="#e2e8f0"> focus = {</tspan></text>
-        <text x="48" y="109"><tspan fill="#7dd3fc">quality</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#86efac">"verified"</tspan><tspan fill="#94a3b8">,</tspan></text>
-        <text x="48" y="140"><tspan fill="#7dd3fc">tools</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#86efac">"practical"</tspan><tspan fill="#94a3b8">,</tspan></text>
-        <text x="48" y="171"><tspan fill="#7dd3fc">mindset</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#86efac">"keep improving"</tspan></text>
-        <text x="28" y="202" fill="#e2e8f0">};</text>
+        <text x="28" y="78"><tspan fill="#7c3aed">const</tspan><tspan fill="#26344d"> focus = {</tspan></text>
+        <text x="48" y="109"><tspan fill="#0369a1">quality</tspan><tspan fill="#6b7c99">: </tspan><tspan fill="#15803d">"verified"</tspan><tspan fill="#6b7c99">,</tspan></text>
+        <text x="48" y="140"><tspan fill="#0369a1">tools</tspan><tspan fill="#6b7c99">: </tspan><tspan fill="#15803d">"practical"</tspan><tspan fill="#6b7c99">,</tspan></text>
+        <text x="48" y="171"><tspan fill="#0369a1">mindset</tspan><tspan fill="#6b7c99">: </tspan><tspan fill="#15803d">"keep improving"</tspan></text>
+        <text x="28" y="202" fill="#26344d">};</text>
       </g>
     </g>
 

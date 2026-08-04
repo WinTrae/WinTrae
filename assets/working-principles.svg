@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+  <title id="title">WinTrae working principles</title>
+  <desc id="desc">Three visual cards describing evidence-first thinking, safe defaults, and practical outcomes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fbfaff"/><stop offset=".55" stop-color="#f4f7ff"/><stop offset="1" stop-color="#ebfbff"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8b5cf6"/><stop offset=".52" stop-color="#3b82f6"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#7286aa" stroke-opacity=".08"/></pattern>
+    <clipPath id="round"><rect width="1200" height="250" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)" font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect width="1200" height="250" fill="url(#bg)"/>
+    <rect width="1200" height="250" fill="url(#grid)"/>
+    <text x="50" y="48" fill="#657795" font-size="11" font-weight="700" letter-spacing="2">HOW I BUILD</text>
+    <g transform="translate(50 70)">
+      <g>
+        <rect width="344" height="132" rx="17" fill="#ffffff" stroke="#8b5cf6" stroke-opacity=".35"/>
+        <text x="22" y="34" fill="#7c3aed" font-size="12" font-weight="800" letter-spacing="1.5">01 / EVIDENCE FIRST</text>
+        <text x="22" y="70" fill="#17233d" font-size="20" font-weight="700">Measure before deciding.</text>
+        <text x="22" y="99" fill="#64748b" font-size="13">Clear signals beat comfortable guesses.</text>
+        <circle cx="312" cy="31" r="12" fill="#8b5cf6" fill-opacity=".15" stroke="#a78bfa" stroke-opacity=".4"/>
+        <path d="M306 31l4 4 8-10" fill="none" stroke="#c4b5fd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+      <g transform="translate(378)">
+        <rect width="344" height="132" rx="17" fill="#ffffff" stroke="#3b82f6" stroke-opacity=".35"/>
+        <text x="22" y="34" fill="#2563eb" font-size="12" font-weight="800" letter-spacing="1.5">02 / SAFE BY DEFAULT</text>
+        <text x="22" y="70" fill="#17233d" font-size="20" font-weight="700">Test before changing.</text>
+        <text x="22" y="99" fill="#64748b" font-size="13">Reversible paths make automation reliable.</text>
+        <circle cx="312" cy="31" r="12" fill="#3b82f6" fill-opacity=".15" stroke="#60a5fa" stroke-opacity=".4"/>
+        <path d="M312 23l7 3v6c0 5-3 8-7 10-4-2-7-5-7-10v-6z" fill="none" stroke="#93c5fd" stroke-width="1.6"/>
+      </g>
+      <g transform="translate(756)">
+        <rect width="344" height="132" rx="17" fill="#ffffff" stroke="#22d3ee" stroke-opacity=".4"/>
+        <text x="22" y="34" fill="#0e7490" font-size="12" font-weight="800" letter-spacing="1.5">03 / PRACTICAL OUTPUTS</text>
+        <text x="22" y="70" fill="#17233d" font-size="20" font-weight="700">Ship tools that help.</text>
+        <text x="22" y="99" fill="#64748b" font-size="13">Small, useful and ready for real work.</text>
+        <circle cx="312" cy="31" r="12" fill="#22d3ee" fill-opacity=".13" stroke="#22d3ee" stroke-opacity=".4"/>
+        <path d="M305 35l7-12 7 12h-5v7h-4v-7z" fill="none" stroke="#67e8f9" stroke-width="1.6" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <rect y="244" width="1200" height="6" fill="url(#accent)"/>
+  </g>
+</svg>

@@ -46,34 +46,23 @@
 </tr>
 </table>
 
-## Featured work
+## Selected work
 
-<table>
-<tr>
-<td width="100%">
+<p align="center">
+  <a href="https://github.com/WinTrae/codex-node-guardian">
+    <img src="./assets/node-guardian-showcase.svg" alt="Codex Node Guardian — privacy-safe Windows node health monitor and cautious failover guardian" width="100%" />
+  </a>
+</p>
 
-### ⚡ [Codex Node Guardian](https://github.com/WinTrae/codex-node-guardian)
+<p align="center">
+  <a href="https://github.com/WinTrae/codex-node-guardian"><strong>Explore the source →</strong></a>
+</p>
 
-A privacy-safe Windows node health monitor and cautious failover guardian for Clash / Mihomo.
+## Working principles
 
-`Python` `PowerShell` `Windows` `Clash/Mihomo` `56 offline tests`
-
-- Fast health checks, standby candidates and controlled recovery
-- Success-rate, P95 latency, jitter and history-aware decisions
-- Dry-run safety mode before any real switching
-- Public repository contains source code only—no personal configuration or runtime data
-
-➡️ **[Explore the source](https://github.com/WinTrae/codex-node-guardian)**
-
-</td>
-</tr>
-</table>
-
-## Currently building
-
-```text
-practical tools  →  safer automation  →  reliable results
-```
+<p align="center">
+  <img src="./assets/working-principles.svg" alt="Evidence first, safe by default, practical outputs" width="100%" />
+</p>
 
 <p align="center">
   <sub>Build carefully · Verify honestly · Keep improving</sub>

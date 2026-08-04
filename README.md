@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm WinTrae 👋</h1>
 
-<!--
-**WinTrae/WinTrae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Engineering · AI Evaluation · Useful Tools
+</p>
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 AI model evaluation, Agent trace analysis and benchmark validation
+- ⚙️ Java / Spring Boot backend development
+- 🐍 Python data processing and automation
+- 🧰 Building small tools that solve real problems
+- 🏀 Basketball · ⛳ Golf · 🎮 Video games
+
+## Current focus
+
+- Practical utilities and automation
+- Reliable AI evaluation workflows
+- Small experiments that turn ideas into working software
+
+## Tech stack
+
+`Java` `Spring Boot` `Python` `MySQL` `Redis` `Vue` `Docker` `Git`
+
+---
+
+> Build carefully. Verify honestly. Keep improving.

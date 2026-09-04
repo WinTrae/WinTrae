@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/WinTrae/codex-node-guardian"><img src="https://img.shields.io/badge/Featured-Codex_Node_Guardian-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Featured project" /></a>
+  <a href="https://github.com/WinTrae/long-term-plan-widget"><img src="https://img.shields.io/badge/New-Long--Term_Plan_Widget-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="New open-source project" /></a>
   <img src="https://img.shields.io/badge/Focus-Reliable_Software-2563EB?style=for-the-badge" alt="Focus: Reliable Software" />
   <img src="https://img.shields.io/badge/Status-Building-0891B2?style=for-the-badge" alt="Status: Building" />
 </p>
@@ -56,6 +57,16 @@
 
 <p align="center">
   <a href="https://github.com/WinTrae/codex-node-guardian"><strong>Explore the source →</strong></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/WinTrae/long-term-plan-widget">
+    <img src="./assets/long-term-plan-widget-showcase.svg" alt="Long-Term Plan Widget — local-first Windows desktop planner" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/WinTrae/long-term-plan-widget"><strong>Explore the planner →</strong></a>
 </p>
 
 ## Working principles
